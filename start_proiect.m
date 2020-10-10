@@ -1,0 +1,11 @@
+clear all;
+close all;
+A=10;
+f=50;                      
+N=5;
+E=15;
+W =-15;
+R1=2000;
+R2=5000;
+sss=1;
+Proiect_interfata(A,f,N,E,W,R1,R2,sss);
